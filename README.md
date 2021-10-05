@@ -1,4 +1,4 @@
-# React task tracker
+# React website
 ### ENG: When program has been downloaded, write npm install to the terminal and then npm start
 
 ### FIN: Kun ohjelma on ladattuna, kirjoita npm install terminaaliin ja sitten npm start

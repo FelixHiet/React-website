@@ -1,7 +1,7 @@
 # React website
-### ENG: When program has been downloaded, write npm install to the terminal and then npm start
+ENG: When program has been downloaded, write npm install to the terminal and then npm start
 
-### FIN: Kun ohjelma on ladattuna, kirjoita npm install terminaaliin ja sitten npm start
+FIN: Kun ohjelma on ladattuna, kirjoita npm install terminaaliin ja sitten npm start
 
 
 # Getting Started with Create React App
